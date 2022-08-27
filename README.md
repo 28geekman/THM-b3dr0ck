@@ -4,7 +4,7 @@ you can do that using the url
 https://tryhackme.com/room/b3dr0ck
 
 This room was awesome, as we get password for a user through gaining its ssl private certificate
-and escalate from running 
+and escalate from running certutil 
 
 as usual let's start with nmap scan,
 
