@@ -238,8 +238,9 @@ use "magic" from cyberchef and paste the text
 we get something like that hash
 
 using crackstation we can see that password is
+```
 flint<redacted>vitamins 
-
+```
 ## switching to root
 ```bash
 su root
